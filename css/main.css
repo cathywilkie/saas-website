@@ -6,6 +6,11 @@ html {
   font-family: Signika, sans-serif;
 }
 
+.logo-text a {
+  text-decoration: none;
+  color: #23a7c9;
+}
+
 .nav a {
   color: #162649;
   text-decoration: none;
@@ -56,6 +61,14 @@ html {
   color: #fff;
 }
 
+.links {
+  color: #06b8c5;
+}
+
+.links:hover {
+  color: #162649;
+}
+
 .call-to-action {
   background-color: #e7aa00;
 }
@@ -88,6 +101,10 @@ html {
 
 .wing {
   width: 50%;
+}
+
+input {
+  border-radius: 10px;
 }
 
 @media only screen and (min-width: 35em) {
