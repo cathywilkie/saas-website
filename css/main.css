@@ -103,6 +103,10 @@ html {
   color: #152955;
 }
 
+.grey {
+  background-color: rgb(181, 182, 190);
+}
+
 .wing {
   width: 50%;
 }
