@@ -51,13 +51,13 @@ html {
 
 .btn-dark {
   background-color: #23a7c9;
-  border-color: #162649;
-  color: #162649;
+  border-color: #000;
+  color: #000;
 }
 
 .btn-dark:hover {
-  background-color: #162649;
-  border-color: #162649;
+  background-color: #000;
+  border-color: #000;
   color: #fff;
 }
 
@@ -137,7 +137,7 @@ input {
 
 main.sign-up {
   background-color: #fff;
-  background-image: url(../images/logo-sora-transp.svg);
+  background-image: url("../images/logo-sora-transp.svg");
   background-position: right;
   background-size: auto 95%;
   background-repeat: no-repeat;
